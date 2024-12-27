@@ -1,2 +1,4 @@
 ﻿  Zoo.cpp
+C:\git\C++\Zoo\Zoo\Zoo.cpp(85,3): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\git\C++\Zoo\Zoo\Zoo.cpp(104,2): warning C4102: 'Default': unreferenced label
   Zoo.vcxproj -> C:\git\C++\Zoo\x64\Debug\Zoo.exe
